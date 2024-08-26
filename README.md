@@ -54,4 +54,3 @@
     </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=footer&text=&fontSize=0" width="100%"/>
