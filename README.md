@@ -54,5 +54,15 @@
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hello-LSY&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="90%"/>
     </a>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/Hello-LSY"
+  width="1500"
+  height="300"
+/>
+</a>
 </div>
+
+
 
